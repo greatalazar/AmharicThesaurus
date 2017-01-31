@@ -1,2 +1,3 @@
 # AmharicThesaurus
-Just an Amharic thesaurus
+Just an Amharic thesaurus.
+Final year project.
