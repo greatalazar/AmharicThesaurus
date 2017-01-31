@@ -1,0 +1,17 @@
+Amharic thesaurus General idea
+- Web based application
+- 4 type of user classes
+  - System Admin
+    - Manage all type of accounts
+    - Manage the system
+  - Content Mnager
+    - Manage the dictionary data and system
+  - Registered User
+    - Can use the dictionary and thesaurus system as it supposed to
+    - Can make suggestion for edits and adds
+  - Guest
+    - Just use our dictionary and thesaurus system as it supposed to without registering
+- Will be built using C#, ASP.NET, MVC, Entity Framework
+- Will have flexiblity and maintainablity
+- Will have an API for other apps
+- Maybe the databse will be opensource and can be downloaded by anyone or sonething like that
