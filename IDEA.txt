@@ -14,4 +14,4 @@ Amharic thesaurus General idea
 - Will be built using C#, ASP.NET, MVC, Entity Framework
 - Will have flexiblity and maintainablity
 - Will have an API for other apps
-- Maybe the databse will be opensource and can be downloaded by anyone or sonething like that
+- Maybe the databse will be opensource and can be downloaded by anyone or something like that
